@@ -1,0 +1,35 @@
+<main>
+
+</main>
+<footer>
+    <p>Projeto desenvolvido pela Maria Eduarda sem fins lucrativos.</p>
+</footer>
+<main>
+    <section id= “container”> 
+
+</section>
+<article class="cartao">
+    <div class="cartao__conteudo">
+
+    </div>
+</article>
+<h3> Programação </h3>
+<div class="cartao__conteudo__pergunta">
+    O que é Corinthians?
+    </div>
+    <div class="cartao__conteudo__resposta">
+        O Corinthians e um time de futebol
+        </div>
+
+<article class="cartao">
+    <div class="cartao__conteudo">
+            <h3> Programação </h3>
+                  <div class="cartao__conteudo__pergunta">
+                        O que é futebol?
+                    </div>                        
+                   <div class="cartao__conteudo__resposta">
+                        O futebol e um esporte
+                     </div>
+                    </div>
+                        
+     </article>
